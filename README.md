@@ -2,8 +2,6 @@
 
 [![GitHub Actions Status](https://github.com/BagusArif9/simpleapp_node/workflows/Build%20and%20Push%20Docker%20Image/badge.svg)](https://github.com/BagusArif9/simpleapp_node/actions)
 
-Deskripsi singkat atau tujuan dari proyek Anda.
-
 ## GitHub Actions
 
 Proyek ini menggunakan GitHub Actions untuk otomatisasi berbagai tugas. Workflow GitHub Actions yang digunakan adalah [Build and Push Docker Image](.github/workflows/main.yaml). 
